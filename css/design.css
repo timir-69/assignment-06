@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Ramabhadra&display=swap');
+
+*{
+	margin: 0;
+	box-sizing: border-box;
+	padding: 0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+
+
+}
+
+ul {
+  list-style-type: none;
+}
+a:hover:{
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+img	{
+	display: block;
+	max-width: 100%;
+}
+body{
+
+	font-family: 'Ramabhadra', sans-serif;
+	font-size: 14px;
+	color: #999;
+
+}
+.flex{
+
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.container{
+	width: 1025px;
+	margin: 0 auto;
+}
+
